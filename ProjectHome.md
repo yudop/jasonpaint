@@ -1,0 +1,1 @@
+Paint a canvas and output with a image
